@@ -12,4 +12,4 @@ Cet art et cette manière s'appelle: **La Naturopathie**.
 
 
 
-!un_chemin_dans_la_nature]({% link images/chemin_nature.jpg %}) 
+![un_chemin_dans_les_bois_au_lever_du_soleil]({% link images/chemin_nature.jpg %}) 
