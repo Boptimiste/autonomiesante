@@ -12,4 +12,4 @@ Elle est une thérapie énergétique qui utilise les **quintessences** des fleur
 
 Aujourd'hui, les remèdes ou "fleurs de Bach" sont utilisés dans le monde entier, notamment dans le domaine de l'enfance, mais aussi celui des animaux et même des plantes en tant qu'outil de soin. 
 
-**Les tensions physiques et émotionnelles ont besoin d'être écoutées attentivement et entendues afin d'être accueillies et comprise. Cette compréhension est bénéfique à tout notre être.** 
+**Les tensions physiques et émotionnelles ont besoin d'être écoutées attentivement et entendues afin d'être accueillies et comprises. Cette compréhension est bénéfique à tout notre être.** 
