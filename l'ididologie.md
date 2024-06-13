@@ -11,7 +11,7 @@ De plus, l’iridologie implique dans certains cas, une projection multiple de p
 
 L’étude iridologique est une pratique basée sur l’étude des iris qui sont **des organes hautement innervés**, stimulés à la fois par l'environnement extérieur et par le corps.
 
-La structure de l'iris reflète **la constitution individuelle** et maladies, habitudes néfastes et vieillissement peuvent l'altérer.
+La structure de l'iris reflète **la constitution individuelle**. Maladies, habitudes néfastes et vieillissement peuvent l'altérer.
 
 L'analyse de l'iris **complète la pratique médicale officielle** en fournissant des données sur la constitution, la réponse nerveuse, les dommages causés par le vieillissement, les maladies et l’hérédité.
 
