@@ -1,6 +1,6 @@
 ---
 title: "L'Ididologie"
-order: 4
+order: 3
 in_menu: true
 ---
 L’étude iridologique est une étude qui se fait en concertation avec la personne qui la demande. En effet, l’iridologie est très différente d’une pratique divinatoire, même si certains signes peuvent paraître évidents et faciles d’interprétation. De plus, L’Iridologie implique dans certains cas, une projection multiple de plusieurs parties de l’organisme, dans le même centre topographique de l’iris, il convient donc de dialoguer avec la personne qui consulte, afin de valider et de vérifier la ou les altérations en lien avec la présence de certains signes.
