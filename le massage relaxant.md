@@ -3,7 +3,7 @@ title: "Le Massage Relaxant"
 order: 6
 in_menu: true
 ---
-![massage_du_visage]({% link images/visage.jpg %})
+![femme_massée_heureuse_et_relaxée]({% link images/photo_femme_massée_heureuse.jpg %})
 
 Le **Massage Relaxant** est une **technique de soin** visant à détendre l'ensemble du corps.
 
