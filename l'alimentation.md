@@ -1,6 +1,6 @@
 ---
 title: "L'alimentation"
-order: 1
+order: 2
 in_menu: true
 ---
 L'alimentation est un des piliers de la santé, elle conditionne la vie de chacune de nos cellules. Son rééquilibrage, dans le contexte de la perte de santé, permet toujours une amélioration, même faible, et souvent: un retour à la normale 
