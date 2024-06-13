@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Autonomie Santé
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Autonomie Santé est un site qui a pour objet de transmettre un art et une manière de cultiver sa santé globale, c'est à dire: physique, psychique, émotionnelle et énergétique.  Cet art et cette manière s'appelle: **Naturopathie**. 
