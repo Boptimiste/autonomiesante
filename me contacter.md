@@ -8,9 +8,9 @@ Claire Bourland Naturopathe agréée
 Les Jardins de Houëlbourg, bureau n°1
 Bld de Houëlbourg * 97122 BAIE-MAHAULT
 
-Tel: 0690 597 609
-
-
+**Tel: 0690 597 609**
 
 Pour me contacter : [clairebnaturopathe@gmail.com]
+
+![Plan_d_accès_au_cabinet_de_naturopathie]({% link images/Capture d’écran 2023-01-12 172306.png %})
 ` 
