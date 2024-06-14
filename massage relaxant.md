@@ -1,5 +1,5 @@
 ---
-title: "Le Massage Relaxant"
+title: "Massage Relaxant"
 order: 6
 in_menu: true
 ---
