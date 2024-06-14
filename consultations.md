@@ -8,7 +8,7 @@ in_menu: true
 
 
 
-Les consultation en Alimentation, Iridologie, Florithérapie et Massage sont au tarif de:
+Les consultations en Nutrition, Iridologie, Florithérapie et Massage Relaxant sont au tarif de:
 
 65€ pour 1 heure
 
@@ -20,4 +20,4 @@ Les consultation en Alimentation, Iridologie, Florithérapie et Massage sont au 
 
 160€ pour 3heures
 
-Les consultations en alimentation et florithérapie peuvent avoir lieu en présentiel au Cabinet de Naturopathie ou en VISIO RDV par Internet. 
+Les consultations en Nutrition et Florithérapie peuvent avoir lieu en présentiel au Cabinet de Naturopathie ou en VISIO RDV par Internet. 
