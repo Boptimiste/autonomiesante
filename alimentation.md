@@ -1,11 +1,11 @@
 ---
-title: "La Nutrition"
+title: "Alimentation"
 order: 2
 in_menu: true
 ---
 ![assiette_garnie_de_nourriture_saine]({% link images/tempeh2.jpg %})
 
-**La nutrition** est un des piliers de la santé, elle conditionne la vie de chacune de nos cellules, par conséquent, de chacun de nos organes. Le rééquilibrage alimentaire, dans le contexte de la perte de santé, permet toujours une amélioration, parfois lente, et souvent: un retour à l'équilibre de l'organisme.
+**L'alimentation** est un des piliers de la santé, elle conditionne la vie de chacune de nos cellules, par conséquent, de chacun de nos organes. Le rééquilibrage alimentaire, dans le contexte de la perte de santé, permet toujours une amélioration, parfois lente, et souvent: un retour à l'équilibre de l'organisme.
 
 Apprendre à s'alimenter est essentiel à l'équilibre global de notre être:
 
