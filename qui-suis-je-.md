@@ -3,7 +3,7 @@ title: "Qui-suis-je?"
 order: 7
 in_menu: true
 ---
-![ma_photo]({% link images/photcouvG.jpg %})
+![ma_photo]({% link images/photo_profil_médaillon.png %})
 
 Petite fille de paysans, j’ai  baigné de nombreuses années dans le champ riche et coloré de la campagne, de l’observation heureuse de l’univers des insectes, en passant par celui des animaux et des végétaux, cultivés ou sauvages, à celui des campagnards eux-mêmes, rudes et vaillants.
 
