@@ -3,8 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![logo]({% link images/logo_scribouilli_claire.png %})
-
 # Autonomie Santé   
 
 **Autonomie Santé** est un site qui a pour objet de présenter et transmettre un art et une certaine manière de **cultiver sa santé globale**, c'est à dire:
