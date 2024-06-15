@@ -5,6 +5,9 @@ in_menu: true
 ---
 # Autonomie Santé ![logo_claire]({% link images/logo_scribouilli_claire.jpeg %})
 
+Claire Bourland
+NATUROPATHE Agréée OMNES
+
 **Autonomie Santé** est site qui a pour objet de présenter et transmettre un art et une certaine manière de **cultiver sa santé globale**, c'est à dire:
 physique, psychique, émotionnelle et énergétique.
 
