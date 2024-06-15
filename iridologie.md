@@ -4,7 +4,8 @@ order: 3
 in_menu: true
 ---
 ![logo_claire]({% link images/logo_scribouilli_claire.jpeg %})
-![trois_iridographies]({% link images/image_page_irido_petite.jpg %})
+
+![Texte décrivant l'image]({% link images/image_page_irido_petite.jpg %})
 
 L’étude iridologique est une étude qui se fait en concertation avec la personne qui la demande. En effet, l’iridologie est très différente d’une pratique divinatoire, même si certains signes peuvent paraître évidents et faciles d’interprétation.
 
