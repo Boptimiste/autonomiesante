@@ -3,16 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-header div.container {
-  background-image: ![Texte décrivant l'image]({% link images/logo_site_scribouilli_claire.jpg %});
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: contain;
-}
-
-@media only screen and (max-width:430px) {
-  header div.container{
-      background-size: 40%; }
+![logo_claire]({% link images/arbre_diaporama.jpg %})
 
 # Autonomie Santé      
 
