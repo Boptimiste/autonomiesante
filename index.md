@@ -3,7 +3,9 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Autonomie Santé   ![logo_anatomie_santé]({% link images/logo_claire.jpg %})  
+![logo_anatomie_santé]({% link images/logo_claire.jpg %})
+
+# Autonomie Santé   
 
 **Autonomie Santé** est un site qui a pour objet de présenter et transmettre un art et une certaine manière de **cultiver sa santé globale**, c'est à dire:
 physique, psychique, émotionnelle et énergétique. 
