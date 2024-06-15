@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 header div.container {
-  background-image: url(https://github.com/Boptimiste/autonomiesante/blob/main/images/logo_claire.jpg);
+  background-image: ![Texte décrivant l'image]({% link images/logo_site_scribouilli_claire.jpg %});
   background-repeat: no-repeat;
   background-position: left center;
   background-size: contain;
