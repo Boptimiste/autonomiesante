@@ -3,8 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![logo_anatomie_santé]({% link images/logo_claire.jpg %});  width: 110px;
-        height: 110px;
+![logo]({% link images/logo_scribouilli_claire.png %})
 
 # Autonomie Santé   
 
