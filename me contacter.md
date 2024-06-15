@@ -3,16 +3,7 @@ title: "Me contacter"
 order: 1
 in_menu: true
 ---
-header div.container {
-  background-image: url(https://github.com/Boptimiste/autonomiesante/blob/main/images/logo_claire.jpg);
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: contain;
-}
-
-@media only screen and (max-width:430px) {
-  header div.container{
-      background-size: 40%; }
+![logo_claire]({% link images/logo_scribouilli_claire.jpeg %})
 
 Claire Bourland Naturopathe agréée
 
