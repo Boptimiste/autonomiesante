@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![logo_claire]({% link images/arbre_diaporama.jpg %})
+![logo_claire]({% link images/logo_scribouilli_claire.jpeg %})
 
 # Autonomie Santé      
 
