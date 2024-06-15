@@ -1,7 +1,3 @@
 :root {
     --couleur-primaire : #6C5353;
 }
-
-nav ul::before {
-  content: "![logo_anatomie_santé]({% link images/logo_claire.jpg %})";
-  width: 110px;
