@@ -1,7 +1,3 @@
 :root {
     --couleur-primaire : #6C5353;
 }
-nav ul::before {
-  content: "🐝";
-  width: 100px;
-}
