@@ -3,6 +3,17 @@ title: "Me contacter"
 order: 1
 in_menu: true
 ---
+header div.container {
+  background-image: url(https://github.com/Boptimiste/autonomiesante/blob/main/images/logo_claire.jpg);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+}
+
+@media only screen and (max-width:430px) {
+  header div.container{
+      background-size: 40%; }
+
 Claire Bourland Naturopathe agréée
 
 Les Jardins de Houëlbourg, bureau n°1
