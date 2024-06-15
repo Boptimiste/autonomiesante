@@ -3,7 +3,5 @@
 }
 
 nav ul::before {
-
-![logo_anatomie_santé]({% link images/logo_claire.jpg %})
-  
-}
+  content: "![logo_anatomie_santé]({% link images/logo_claire.jpg %})";
+  width: 110px;
