@@ -3,6 +3,7 @@ title: "Qui-suis-je?"
 order: 7
 in_menu: true
 ---
+![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 ![photo_de_mon_visage]({% link images/photo_profil.jpg %})
 
 **P**etite fille de paysans, j’ai été immergée, depuis ma plus tendre enfance, et de nombreuses années durant, dans le bain riche et coloré de la campagne, de l’observation heureuse de l’univers des insectes, en passant par celui des petits et plus grands animaux de la ferme et de la forêt, celui des végétaux et des fruits, cultivés et sauvages, à celui des campagnards eux-mêmes, rudes, joyeux et vaillants.
