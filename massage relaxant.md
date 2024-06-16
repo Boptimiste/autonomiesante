@@ -3,6 +3,7 @@ title: "Massage Relaxant"
 order: 6
 in_menu: true
 ---
+![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 ![femme_massée_heureuse]({% link images/photo_femme_massée_heureuse2.jpg %})
 
 Le **Massage Relaxant** est une **technique de soin** visant à détendre l'ensemble du corps.
