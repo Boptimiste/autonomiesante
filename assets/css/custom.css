@@ -3,5 +3,5 @@
 }
 
 nav ul::before {
-  content: "Claire Bourland NATUROPATHE Agréée OMNES[color=#339c87]" ; 
- 
+  content: "Claire Bourland NATUROPATHE Agréée OMNES<span style="color: #339c87">; 
+}
