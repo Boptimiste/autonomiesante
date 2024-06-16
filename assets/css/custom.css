@@ -2,6 +2,11 @@
     --couleur-primaire : #6C5353;
 }
 
-nav ul::before {
-  content: "Claire Bourland NATUROPATHE Agréée OMNES<span style="color: #339c87">; 
+header div.container {
+  background-image: url(https://github.com/Boptimiste/autonomiesante/blob/main/images/arbre_diaporama.jpg?raw=true;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
 }
+
+https://github.com/Boptimiste/autonomiesante/blob/main/images/arbre_diaporama.jpg?raw=true
