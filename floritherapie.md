@@ -3,6 +3,7 @@ title: "Florithérapie"
 order: 5
 in_menu: true
 ---
+![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 ![une_main_tenant_tendrement_une_fleur]({% link images/safe_image.php.jpg %})
 
 
