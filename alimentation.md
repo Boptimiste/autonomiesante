@@ -3,8 +3,7 @@ title: "Alimentation"
 order: 2
 in_menu: true
 ---
-![logo_claire]({% link images/logo_scribouilli_claire.jpeg %})
-
+![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 ![assiette_garnie_de_nourriture_saine]({% link images/tempeh2.jpg %})
 
 **L'alimentation** est un des piliers de la santé, elle conditionne la vie de chacune de nos cellules, par conséquent, de chacun de nos organes. Le rééquilibrage alimentaire, dans le contexte de la perte de santé, permet toujours une amélioration, parfois lente, et souvent: un retour à l'équilibre de l'organisme.
