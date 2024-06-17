@@ -6,3 +6,7 @@ nav ul::before {
   content: "Autonomie Santé";
 color: #fcfefd; font-size: 50px;
 }
+
+footer {
+content: "Claire Bourland Praticienne de Santé Naturopathe Les Jardins de Houëlbourg 97122 Baie Mahault - 0690 597 609"
+}
