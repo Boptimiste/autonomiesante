@@ -1,12 +1,12 @@
 ---
-title: "👨‍👩‍👦‍👦Me contacter"
+title: "Me contacter"
 order: 2
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 
 ### Claire Bourland NATUROPATHE agréée OMNES
-Les Jardins de Houëlbourg, bureau n°1
+Les Jardins de Houëlbourg, bureau n°1 🌴
 Bld de Houëlbourg  🌴 97122 BAIE-MAHAULT
 ### Tel: 0690 597 609
 
