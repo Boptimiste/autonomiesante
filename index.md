@@ -3,12 +3,12 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-# Bienvenue ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
+### Bienvenue sur le site de Claire Bourland Naturopathe ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 
-**Autonomie Santé** est un site qui a pour objet de présenter et transmettre un art et une certaine manière de **cultiver sa santé globale**, c'est à dire:
-physique, psychique, émotionnelle et énergétique.
+**Autonomie Santé** est le site qui a pour objet de présenter et transmettre un art et une manière de **cultiver sa santé globale**.
+Le bon état de santé physique, psychique, émotionnelle et énergétique représente cette santé globale.
 
-L'art et la manière dont il est ici question est la NATUROPATHIE.
+L'art et la manière dont il est ici question est la **NATUROPATHIE**.
 Ce nom, d'origine américaine signifie: le chemin vers la Nature.
 ("_nature_" + "_path_")
 
