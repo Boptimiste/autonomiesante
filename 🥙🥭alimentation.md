@@ -1,5 +1,5 @@
 ---
-title: "Alimentation"
+title: "🥙🥭Alimentation"
 order: 3
 in_menu: true
 ---
