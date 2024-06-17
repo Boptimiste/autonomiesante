@@ -3,6 +3,6 @@
 }
 
 nav ul::before {
-  content: "Claire Bourland Naturopathe";
-color: #d87c4bff;
+  content: "###Claire Bourland Naturopathe";
+color: #339c87;
 }
