@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 0
+order: 1
 in_menu: true
 ---
 # Autonomie Santé ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})

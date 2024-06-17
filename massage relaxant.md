@@ -1,6 +1,6 @@
 ---
 title: "Massage Relaxant"
-order: 6
+order: 7
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})

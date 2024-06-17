@@ -1,6 +1,6 @@
 ---
 title: "Florithérapie"
-order: 5
+order: 6
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})

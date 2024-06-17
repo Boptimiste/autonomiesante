@@ -1,6 +1,6 @@
 ---
 title: "Alimentation"
-order: 2
+order: 3
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})

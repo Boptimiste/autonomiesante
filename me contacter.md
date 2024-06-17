@@ -1,6 +1,6 @@
 ---
 title: "Me contacter"
-order: 1
+order: 2
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})

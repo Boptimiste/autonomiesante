@@ -1,6 +1,6 @@
 ---
 title: "Iridologie"
-order: 3
+order: 4
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
