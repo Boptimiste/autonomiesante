@@ -1,5 +1,5 @@
 ---
-title: "Recettes"
+title: "🥄Recettes"
 order: 10
 in_menu: true
 ---
