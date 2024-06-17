@@ -3,6 +3,7 @@
 }
 
 nav ul::before {
-  content: "Claire Bourland Naturopathe        ";
+  content: "Claire Bourland Naturopathe                    
+      ";
 color: #339c87; font-size: 40px;
 }
