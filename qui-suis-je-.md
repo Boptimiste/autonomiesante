@@ -4,7 +4,6 @@ order: 8
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
-![photo_de_mon_visage]({% link images/photo_profil.jpg %})
 
 **P**etite fille de paysans, j’ai été immergée, depuis ma plus tendre enfance, et de nombreuses années durant, dans le bain riche et coloré de la campagne, de l’observation heureuse de l’univers des insectes, en passant par celui des petits et plus grands animaux de la ferme et de la forêt, celui des végétaux et des fruits, cultivés et sauvages, à celui des campagnards eux-mêmes, rudes, joyeux et vaillants.
 
@@ -20,4 +19,4 @@ celui de l’informatique, à partir duquel j’ai choisi, plus tard, une premi�
 
 **A**ujourd'hui, j'aide les personnes qui viennent me rencontrer à entretenir leur santé et/ou à en retrouver le chemin en leur permettant de comprendre ce qui a pu les amener à des perturbations de leur santé. 
 
-**Q**uand on comprend les cheminements de la maladie, on peut changer le cours des choses, on peut reprendre son pouvoir et mettre en œuvre les conditions nécessaires  à la relance des processus naturels d'autoguérison. Bien sûr, toute situation n'est pas toujours réversible, cependant, et quoiqu'il en soit, il est toujours temps d'améliorer sa santé et son hygiène de vie globale pour vivre mieux. 
+**Q**uand on comprend les cheminements de la maladie, on peut changer le cours des choses, on peut reprendre son pouvoir et mettre en œuvre les conditions nécessaires  à la relance des processus naturels d'autoguérison. Bien sûr, toute situation n'est pas toujours réversible, cependant, et quoiqu'il en soit, il est toujours temps d'améliorer sa santé et son hygiène de vie globale pour vivre mieux. ![photo_de_mon_visage]({% link images/photo_profil.jpg %}) 
