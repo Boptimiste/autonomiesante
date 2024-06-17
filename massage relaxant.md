@@ -1,5 +1,5 @@
 ---
-title: "🤗Massage Relaxant"
+title: "Massage Relaxant"
 order: 7
 in_menu: true
 ---
