@@ -6,3 +6,10 @@ nav ul::before {
   content: "A u t o n o m i e ☀ S a n t é";
 color: #fcfefd; font-size: 60px;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #6C5353;
+  color: #fff;
