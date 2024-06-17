@@ -1,5 +1,5 @@
 ---
-title: "Me contacter"
+title: "👨‍👩‍👦‍👦Me contacter"
 order: 2
 in_menu: true
 ---
