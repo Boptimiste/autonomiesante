@@ -8,11 +8,10 @@ color: #fcfefd; font-size: 60px;
 }
 
 footer {
+  content:"Claire Bourland NATUROPATHE Agréée ☀ 0690 597 609";
+color: #fcfefd;
   display: flex;
   justify-content: center;
   padding: 5px;
-content:"Claire Bourland NATUROPATHE Agréée ☀ 0690 597 609";
   background-color: #6C5353;
-  color: #fff;
-
 }
