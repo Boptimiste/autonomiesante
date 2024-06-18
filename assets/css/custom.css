@@ -7,7 +7,7 @@ nav ul::before {
 color: #fcfefd; font-size: 60px;
 }
 
-footer {
+footer ::before {
   content: "Claire Bourland NATUROPATHE Agréée ☀ 0690 597 609";
   color: #fcfefd;
   justify-content: center;
