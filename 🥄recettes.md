@@ -160,6 +160,7 @@ h1 {
 .btn.active {
   background-color: #a58765;
    color: white;
+}
 
 <style>
 .footer {
