@@ -66,10 +66,10 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="Assiette9.jpg">
+    <a target="_blank" href="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true">
       <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Sarrasin, carottes, courgettes, sucrine, betterave, gombos...</div>
   </div>
 </div>
 
