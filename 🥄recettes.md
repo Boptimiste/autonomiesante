@@ -56,6 +56,19 @@ div.desc {
   display: table;
   clear: both;
 }
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+
 </style>
 </head>
 <body>
@@ -67,7 +80,6 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true">
-<span class="close">×</span>
       <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true" width="600" height="400">
     </a>
     <div class="desc">Fromage végétal à base de graines de Tournesol</div>
