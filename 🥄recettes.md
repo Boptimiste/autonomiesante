@@ -60,14 +60,14 @@ div.desc {
 </head>
 <body>
 
-<h2>Responsive Image Gallery</h2>
+<h2>Galerie d'assiettes</h2>
 
 <h4>Resize the browser window to see the effect.</h4>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="Assiette9.jpg">
+      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
