@@ -6,7 +6,7 @@ in_menu: true
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: 
 
-<h2>PORTFOLIO</h2>
+<h2>Galerie santé</h2>
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Tout voir</button>
   <button class="btn" onclick="filterSelection('snack')"> Snack</button>
