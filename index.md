@@ -21,7 +21,7 @@ Ce nom, d'origine américaine, signifie: le chemin vers la Nature ("_nature_"+ "
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color: #6C5353;
   color: white;
   text-align: center;
 }
