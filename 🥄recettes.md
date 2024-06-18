@@ -70,7 +70,7 @@ div.desc {
 <span class="close">×</span>
       <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true" width="600" height="400">
     </a>
-    <div class="desc">Sarrasin, carottes, courgettes, sucrine, betterave, gombos...</div>
+    <div class="desc">Fromage végétal à base de graines de Tournesol</div>
   </div>
 </div>
 
