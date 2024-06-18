@@ -18,6 +18,7 @@ Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à
 <div class="row">
   <div class="column snack">
     <div class="content">
+![toasts de patate douce]({% link images/Assiette32.jpg %})
       <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
       <h4>Mountains</h4>
       <p>Lorem ipsum dolor..</p>
