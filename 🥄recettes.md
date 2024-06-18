@@ -67,6 +67,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true">
+<span class="close">×</span>
       <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette9.jpg?raw=true" width="600" height="400">
     </a>
     <div class="desc">Sarrasin, carottes, courgettes, sucrine, betterave, gombos...</div>
