@@ -100,7 +100,7 @@ Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: #fcfefd;
   padding: 20px;
   font-family: Arial;
 }
@@ -162,12 +162,12 @@ h1 {
 
 /* Add a grey background color on mouse-over */
 .btn:hover {
-  background-color: #ddd;
+  background-color: #2bbf9c;
 }
 
 /* Add a dark background color to the active button */
 .btn.active {
-  background-color: #666;
+  background-color: #a58765;
    color: white;
 
 
