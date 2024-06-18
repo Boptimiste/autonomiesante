@@ -84,16 +84,7 @@ Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à
 <!-- END GRID -->
 </div>
 
-<style>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #6C5353;
-  color: white;
-  text-align: center;
-}
+
 
 * {
   box-sizing: border-box;
@@ -170,6 +161,16 @@ h1 {
   background-color: #a58765;
    color: white;
 
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6C5353;
+  color: white;
+  text-align: center;
+}
 
 
 </style>
