@@ -14,3 +14,19 @@ Ce nom, d'origine américaine, signifie: le chemin vers la Nature ("_nature_"+ "
 
 
 ![un_chemin_dans_les_bois_au_lever_du_soleil]({% link images/chemin_nature.jpg %}) --> [Petite histoire de la Naturopathie](https://boptimiste.github.io/autonomiesante/articles/) 
+
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+</style>
+
+<div class="footer">
+  <p>Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609</p>
+</div> 
