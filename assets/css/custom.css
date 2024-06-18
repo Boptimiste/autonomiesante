@@ -8,6 +8,8 @@ color: #fcfefd; font-size: 60px;
 }
 
 footer {
+
+content: "Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609"
   position: fixed;
   left: 0;
   bottom: 0;
@@ -16,8 +18,4 @@ footer {
   color: white;
   text-align: center;
 }
-</style>
 
-<div class="footer">
-  <p>Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609</p>
-</div>
