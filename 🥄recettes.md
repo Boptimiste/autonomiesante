@@ -6,7 +6,6 @@ in_menu: true
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: 
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,17 +24,17 @@ div.scroll-container img {
 </head>
 <body>
 
-<h2>Image Gallery With Horizontal Scroll</h2>
-<p>Use the horizontal scrollbar to see the other images.</p>
+<h2>Recette's Galerie</h2>
+<p>Défilé d'assiettes-repas et de gourmandises.</p>
 
 <div class="scroll-container">
-  <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-  <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-  <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-  <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" " alt="Assiette1" width="600" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" alt="Assiette2" width="600" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" alt="Assiette3" width="600" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" alt="Assiette4" width="600" height="400">
 </div>
 
-<p>Note that the images are of same size.</p>
+<p>Régalez-vous, c'est à vous!</p>
 
 </body>
 </html>
