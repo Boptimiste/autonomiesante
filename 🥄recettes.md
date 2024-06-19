@@ -34,7 +34,8 @@ div.scroll-container img {
   <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" alt="Assiette4" width="400" height="400">
 </div>
 
-<p>Régalez-vous, c'est à vous!</p>
+<p>
+<h3 style="color:#ea9224;">Régalez-vous, c'est à vous!</h3></p>
 
 </body>
 </html>
