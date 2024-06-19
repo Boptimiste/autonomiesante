@@ -24,14 +24,14 @@ div.scroll-container img {
 </head>
 <body>
 
-<h2>Recette's Galerie</h2>
-<p>Défilé d'assiettes-repas et de gourmandises.</p>
+<h2 style="color:#ea9224;">Recette's Galerie</h2>
+<p style="color:#6C5353;">Défilé d'assiettes-repas et de gourmandises.</p>
 
 <div class="scroll-container">
-  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" " alt="Assiette1" width="600" height="400">
-  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" alt="Assiette2" width="600" height="400">
-  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" alt="Assiette3" width="600" height="400">
-  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" alt="Assiette4" width="600" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" " alt="Assiette1" width="400" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" alt="Assiette2" width="400" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" alt="Assiette3" width="400" height="400">
+  <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" alt="Assiette4" width="400" height="400">
 </div>
 
 <p>Régalez-vous, c'est à vous!</p>
