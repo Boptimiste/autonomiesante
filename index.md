@@ -15,6 +15,19 @@ Ce nom, d'origine américaine, signifie: le chemin vers la Nature ("_nature_"+ "
 
 ![un_chemin_dans_les_bois_au_lever_du_soleil]({% link images/chemin_nature.jpg %}) --> [Petite histoire de la Naturopathie](https://boptimiste.github.io/autonomiesante/articles/) 
 
+<html>
+<body>
+
+<h1>My First JavaScript</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+</body>
+</html> 
+
 <style>
 .footer {
   position: fixed;
