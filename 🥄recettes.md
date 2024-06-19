@@ -6,50 +6,101 @@ in_menu: true
 <!DOCTYPE html>
 <html>
 <head>
-<h3 style="color:#4bc7cc;">Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: </h3>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-div.scroll-container {
-  background-color: #333;
-  overflow: auto;
-  white-space: nowrap;
-  padding: 10px;
+div.gallery {
+  border: 1px solid #ccc;
 }
 
-div.scroll-container img {
-  padding: 10px;
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
 </head>
 <body>
 
-<h2>Image Gallery With Horizontal Scroll</h2>
-<p>Use the horizontal scrollbar to see the other images.</p>
+<h2>Recette's Galerie😋</h2>
 
-<div class="scroll-container">
-<img alt="Assiette1.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
-<img alt="Assiette2.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
-  <img alt="Assiette3.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
-  <img alt="Assiette4.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Assiette1.jpg">
+      <img src="<img alt="Assiette1.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg" alt="Assiette1" width="600" height="600">
+    </a>
+    <div class="desc">sarrasin cuit vapeur et légumes</div>
+  </div>
 </div>
 
-<p>Note that the images are of same size.</p>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Assiette2.jpg">
+      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg" alt="Assiette1" width="600" height="600">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Assiette3.jpg">
+      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg" alt="Assiette3" width="600" height="600">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Assiette4.jpg">
+      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg" alt="Assiette4" width="600" height="600">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<div style="padding:6px;">
+ 
+</div>
 
 </body>
-</html>
-
-<style>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #6C5353;
-  color: white;
-  text-align: center;
-}
-</style>
-
-<div class="footer">
-  <p>Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609</p>
-</div> 
+</html> 
