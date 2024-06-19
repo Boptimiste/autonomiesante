@@ -3,7 +3,8 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-### Bienvenue sur le site de Claire Bourland NATUROPATHE ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
+<h2 style="color:#4bc7cc;">Bienvenue sur le site de Claire Bourland NATUROPATHE !</h2>
+[logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 
 **Autonomie☀Santé** est un site qui a pour objet de présenter et transmettre un Art et une Manière de **Cultiver sa Santé**.
 
