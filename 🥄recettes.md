@@ -62,8 +62,10 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="Assiette1.jpg">
-      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">img alt="Assiette1.jpg" width="600" height="600">
+    
+<a target="_blank" href="Assiette1.jpg"> width="600" height="600">
+<img alt="Assiette1.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
     </a>
     <div class="desc">sarrasin cuit vapeur et légumes</div>
   </div>
