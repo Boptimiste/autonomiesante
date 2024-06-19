@@ -3,13 +3,10 @@ title: "🥄Recettes"
 order: 10
 in_menu: true
 ---
-![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
-
-<h3 style="color:#4bc7cc;">Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: </h3>
-
 <!DOCTYPE html>
 <html>
 <head>
+<h3 style="color:#4bc7cc;">Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: </h3>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 div.scroll-container {
