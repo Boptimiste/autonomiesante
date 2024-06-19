@@ -63,8 +63,8 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     
-<a target="_blank" href="Assiette1.jpg"> width="600" height="600">
-<img alt="Assiette1.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<a target="_blank" href="Assiette1.jpg">
+<img alt="Assiette1.jpg" <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
     </a>
     <div class="desc">sarrasin cuit vapeur et légumes</div>
@@ -75,7 +75,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="Assiette2.jpg">
-      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg" alt="Assiette1" width="600" height="600">
+      <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg" alt="Assiette2" width="600" height="600">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
