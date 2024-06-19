@@ -7,6 +7,29 @@ in_menu: true
 
 <h3 style="color:#4bc7cc;">Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: </h3>
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>Image Gallery With Horizontal Scroll</h2>
+<p>Use the horizontal scrollbar to see the other images.</p>
+
+<div class="scroll-container">
 <img alt="Assiette1.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
 <img alt="Assiette2.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
   <img alt="Assiette3.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
