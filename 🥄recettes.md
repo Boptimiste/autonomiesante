@@ -7,10 +7,10 @@ in_menu: true
 
 <h3 style="color:#4bc7cc;">Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: </h3>
 
-![Texte décrivant l'image]({% link images/Assiette1.jpg %})
-![Texte décrivant l'image]({% link images/Assiette2.jpg %})
-![Texte décrivant l'image]({% link images/Assiette3.jpg %})
-![Texte décrivant l'image]({% link images/Assiette4.jpg %})
+<img alt="Assiette8.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
+<img alt="Assiette2.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
+  <img alt="Assiette3.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
+  <img alt="Assiette4.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
 
 <style>
 .footer {
