@@ -5,8 +5,12 @@ in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 
-Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: 
+<h3 style="color:#4bc7cc;">Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: </h3>
 
+![Texte décrivant l'image]({% link images/Assiette1.jpg %})
+![Texte décrivant l'image]({% link images/Assiette2.jpg %})
+![Texte décrivant l'image]({% link images/Assiette3.jpg %})
+![Texte décrivant l'image]({% link images/Assiette4.jpg %})
 
 <style>
 .footer {
