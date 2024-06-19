@@ -34,6 +34,12 @@ div.scroll-container img {
 <img alt="Assiette2.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">width="600" height="600">
   <img alt="Assiette3.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
   <img alt="Assiette4.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"> width="600" height="600">
+</div>
+
+<p>Note that the images are of same size.</p>
+
+</body>
+</html>
 
 <style>
 .footer {
