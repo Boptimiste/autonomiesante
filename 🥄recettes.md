@@ -6,40 +6,7 @@ in_menu: true
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 Ici vous trouverez des assiettes repas et des gourmandises faciles et rapides à réaliser: 
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-div.scroll-container {
-  background-color: #333;
-  overflow: auto;
-  white-space: nowrap;
-  padding: 10px;
-}
-
-div.scroll-container img {
-  padding: 10px;
-}
-</style>
-</head>
-<body>
-
-<h2>Image Gallery With Horizontal Scroll</h2>
-<p>Use the horizontal scrollbar to see the other images.</p>
-
-<div class="scroll-container">
-  <img src="![Assiette1]({% link images/Assiette1a.jpg %})" width="600" height="600">
-  <img src="![Texte décrivant l'image]({% link images/Assiette2.jpg %})" width="600" height="400">
-  <img src="![Texte décrivant l'image]({% link images/Assiette3.jpg %})" width="600" height="600">
-  <img src="![Texte décrivant l'image]({% link images/Assiette4.jpg %})" width="600" height="400">
-</div>
-
-<p>Note that the images are of same size.</p>
-
-</body>
-</html>
-
+![Texte décrivant l'image]({% link images/Assiette2.jpg %})
 
 <style>
 .footer {
