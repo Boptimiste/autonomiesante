@@ -17,7 +17,7 @@ in_menu: true
  
 .zoom {
   padding: 50px;
-  background-img: ![Texte décrivant l'image]({% link images/Assiette1.jpg %}) ;
+  ![Assiette1]({% link images/Assiette1.jpg %}) ;
   transition: transform .2s;
   width: 200px;
   height: 200px;
