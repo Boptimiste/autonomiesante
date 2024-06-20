@@ -81,16 +81,16 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="img_nature.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+    <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg" alt="Assiette1.jpg" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
+    <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg" alt="Assiette2.jpg" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+    <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg" alt="Assiette3.jpg" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="img_lights.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+    <img src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg" alt="Assiette4.jpg" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
