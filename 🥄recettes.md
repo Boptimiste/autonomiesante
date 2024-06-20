@@ -7,7 +7,6 @@ in_menu: true
 
 <h2>Recette's Galerie😋</h2>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,11 +15,9 @@ in_menu: true
   box-sizing: border-box;
 }
  
-
-
 .zoom {
   padding: 50px;
-  background-color: green;
+  background-img: ![Texte décrivant l'image]({% link images/Assiette1.jpg %}) ;
   transition: transform .2s;
   width: 200px;
   height: 200px;
