@@ -96,9 +96,7 @@ in_menu: true
   </body>
 </html>
 
-
-
-</style>
+<style>
 .footer {
   position: fixed;
   left: 0;
