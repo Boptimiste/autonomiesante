@@ -5,7 +5,17 @@ in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 
-<h2>Recette's Galerie😋</h2> 
+<h2>Recette's Galerie😋</h2>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+ 
 
 
 .zoom {
