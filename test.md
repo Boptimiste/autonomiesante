@@ -3,7 +3,7 @@ title: "test"
 order: 14
 in_menu: true
 ---
-<!DOCTYPE html>
+![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
