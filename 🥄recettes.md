@@ -7,7 +7,6 @@ in_menu: true
 
 <h2>Recette's Galerie😋</h2>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
