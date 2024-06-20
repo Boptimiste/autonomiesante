@@ -7,7 +7,7 @@ in_menu: true
 
 <h2>Recette's Galerie😋</h2>
 
-![Assiette1]({% link images/Assiette1.jpg %;})
+![Assiette1]({% link images/Assiette1.jpg %})
 
 
 
