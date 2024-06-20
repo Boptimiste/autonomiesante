@@ -7,15 +7,13 @@ in_menu: true
 
 <h2>Recette's Galerie😋</h2>
 
-<img src= "https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg";>
-
-img {
-  border-radius: 50%;
-}
-
+<img alt="Assiette1.jpg" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 
 <style>
+img {
+  border-radius: 50%;
+}
 .footer {
   position: fixed;
   left: 0;
