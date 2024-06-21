@@ -3,8 +3,8 @@
 }
 
 nav ul::before {
-  content: "A u t o n o m i e ☀ S a n t é";
-color: #fcfefd; font-size: 60px;
+  content: "Autonomie ☀ Santé";
+color: #fcfefd; font-size: 40px;
 }
 
 footer, .skip-links{
