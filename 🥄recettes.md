@@ -13,7 +13,7 @@ in_menu: true
   <head>
     <style>
       #gallery {
-        width: 600px;
+        width: 800px;
         overflow: hidden;
         position: relative;
         z-index: 1;
