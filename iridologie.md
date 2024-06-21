@@ -23,19 +23,3 @@ En recueillant des signes dans les iris, elle est une aide à la prévention ou 
 **Il est important de préciser, que « tout » ne se voit pas dans l’iris, et que des symptômes ressentis par la personne qui consulte, ne correspondent pas systématiquement à des signes visibles dans l’iris**.
 
 L’iridologie ne fournit pas de diagnostic, au sens médical officiel du terme. 
-
-<style>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #6C5353;
-  color: white;
-  text-align: center;
-}
-</style>
-
-<div class="footer">
-  <p>Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609</p>
-</div> 
