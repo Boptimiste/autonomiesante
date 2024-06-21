@@ -3,8 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-<h2 style="color:#4bc7cc;">Bienvenue sur le site de Claire Bourland NATUROPATHE</h2>
-
+<h3 style="color:#4bc7cc;">Bienvenue sur le site de Claire Bourland NATUROPATHE</h3>
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 
 **Autonomie☀Santé** est un site qui a pour objet de présenter et transmettre un Art et une Manière de **Cultiver sa Santé**.
@@ -14,11 +13,15 @@ in_menu: true
 L'art et la manière dont il est ici question est la **NATUROPATHIE**.
 Ce nom, d'origine américaine, signifie: le chemin vers la Nature ("_nature_"+ "_path_")
 
-![Un chemin dans les bois au lever du soleil]({% link images/chemin_nature2.jpg %}) --> [Petite histoire de la Naturopathie](https://boptimiste.github.io/autonomiesante/articles/) 
-<p>
-</p>
-<p>
-</p>
+![Un chemin dans les bois au lever du soleil]({% link images/chemin_nature2.jpg %}) 
+
+
+--> [Petite histoire de la Naturopathie](https://boptimiste.github.io/autonomiesante/articles/) 
+
+
+
+
+
 
 <style>
 .footer {
