@@ -51,42 +51,42 @@ in_menu: true
     <div id="gallery">
       <ul id="navigation">
         <li>
-          <a href="#Assiette1.jpg">
+          <a href="#picture1">
             <img alt="Assiette1SSize" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1SSize.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
         <li>
-          <a href="#Assiette2">
+          <a href="#picture2">
             <img alt="Small Assiette2" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
         <li>
-          <a href="#Assiette3">
+          <a href="#picture3">
             <img alt="Small Assiette3" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette3.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
         <li>
-          <a href="#Assiette4">
+          <a href="#picture4">
             <img alt="Small Assiette4" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette4.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
       </ul>
       <div id="full-picture">
         <div>
-          <a name="Assiette1"></a>
+          <a name="picture1"></a>
           <img alt="Assiette1" src="/https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
         </div>
         <div>
-          <a name="Assiette2"></a>
-          <img alt="Large Assiette2" src="/uploads/media/default/0001/03/825a2070e85851f240a3e3159ce14a209ec09ef4.jpeg" />
+          <a name="picture2"></a>
+          <img alt="Assiette2" src="/uploads/media/default/0001/03/825a2070e85851f240a3e3159ce14a209ec09ef4.jpeg" />
         </div>
         <div>
-          <a name="Assiette3"></a>
-          <img alt="Large Assiette3" src="/uploads/media/default/0001/03/50e11aad0765f04983e42cb992fbda3ba39322f5.jpeg" />
+          <a name="picture3"></a>
+          <img alt="Assiette3" src="/uploads/media/default/0001/03/50e11aad0765f04983e42cb992fbda3ba39322f5.jpeg" />
         </div>
         <div>
-          <a name="Assiette4"></a>
-          <img alt="Large Assiette4" src="/uploads/media/default/0001/03/efcd4eae59c19e488249be1872a3aca00d81d545.jpeg" />
+          <a name="picture4"></a>
+          <img alt="Assiette4" src="/uploads/media/default/0001/03/efcd4eae59c19e488249be1872a3aca00d81d545.jpeg" />
         </div>
       </div>
     </div>
