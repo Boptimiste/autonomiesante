@@ -74,7 +74,7 @@ in_menu: true
       <div id="full-picture">
         <div>
           <a name="Assiette1"></a>
-          <img alt="Large Assiette1" src="/https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
+          <img alt="Assiette1" src="/https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
         </div>
         <div>
           <a name="Assiette2"></a>
