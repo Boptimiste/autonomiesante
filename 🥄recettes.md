@@ -52,7 +52,7 @@ in_menu: true
       <ul id="navigation">
         <li>
           <a href="#Assiette1">
-            <img alt="Small Assiette1" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
+            <img alt="Assiette1SSize" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1SSize.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
         <li>
