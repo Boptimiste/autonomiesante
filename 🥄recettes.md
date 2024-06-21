@@ -15,7 +15,7 @@ in_menu: true
         position: relative;
         z-index: 1;
         margin: 100px auto;
-        border: 2px solid #003c72;
+        border: 0px solid #003c72;
       }
       #navigation {
         list-style: none;
@@ -38,7 +38,7 @@ in_menu: true
       }
       #full-picture {
         width: 600px;
-        height: 375px;
+        height: 600px;
         overflow: hidden;
         float: left;
       }
@@ -51,7 +51,7 @@ in_menu: true
     <div id="gallery">
       <ul id="navigation">
         <li>
-          <a href="#Assiette1">
+          <a href="#Assiette1.jpg">
             <img alt="Assiette1SSize" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1SSize.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
