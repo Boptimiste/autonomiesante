@@ -18,10 +18,10 @@ Ce nom, d'origine américaine, signifie: le chemin vers la Nature ("_nature_"+ "
 
 --> [Petite histoire de la Naturopathie](https://boptimiste.github.io/autonomiesante/articles/) 
 
-
-
-
-
+<div></div>
+<div></div>
+<div></div>
+<div></div>
 
 <style>
 .footer {
