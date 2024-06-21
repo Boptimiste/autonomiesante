@@ -21,3 +21,19 @@ Apprendre à s'alimenter est essentiel à l'équilibre global de notre être:
 - Est-ce que je mange suffisamment de protéines ou au contraire, est-ce que j'en consomme trop,...
 
 S'alimenter vertueusement est **un plaisir** et **une nécessité** qui nous apportent un équilibre tant physique que psychique, tant émotionnel qu'énergétique! 
+
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6C5353;
+  color: white;
+  text-align: center;
+}
+</style>
+
+<div class="footer">
+  <p>Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609</p>
+</div> 
