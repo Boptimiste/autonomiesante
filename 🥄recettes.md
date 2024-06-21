@@ -51,7 +51,7 @@ in_menu: true
     <div id="gallery">
       <ul id="navigation">
         <li>
-          <a href="Assiette1.jpg">
+          <a href="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
             <img alt="Assiette1SSize" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1SSize.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" />
           </a>
         </li>
