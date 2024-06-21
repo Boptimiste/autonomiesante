@@ -6,6 +6,9 @@ nav ul::before {
   content: "Autonomie ☀ Santé";
 color: #fcfefd; font-size: 50px;
 }
+</style>
+ text-align: center;
+}
 
 footer, .skip-links{
     display: none;
