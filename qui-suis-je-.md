@@ -20,3 +20,19 @@ celui de l’informatique, à partir duquel j’ai choisi, plus tard, une premi�
 **A**ujourd'hui, j'aide les personnes qui viennent me rencontrer à entretenir leur santé et/ou à en retrouver le chemin en leur permettant de comprendre ce qui a pu les amener à des perturbations de leur santé. 
 
 **Q**uand on comprend les cheminements de la maladie, on peut changer le cours des choses, on peut reprendre son pouvoir et mettre en œuvre les conditions nécessaires  à la relance des processus naturels d'autoguérison. Bien sûr, toute situation n'est pas toujours réversible, cependant, et quoiqu'il en soit, il est toujours temps d'améliorer sa santé et son hygiène de vie globale pour vivre mieux. ![photo_de_mon_visage]({% link images/photo_profil.jpg %}) 
+
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6C5353;
+  color: white;
+  text-align: center;
+}
+</style>
+
+<div class="footer">
+  <p>Claire Bourland Praticienne de Santé Naturopathe ☀ 0690 597 609</p>
+</div> 
