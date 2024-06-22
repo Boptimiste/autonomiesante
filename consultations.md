@@ -4,9 +4,7 @@ order: 9
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
-![Cultiver_sa_santé_dessin_d_une_femme_arrosant_une_plante_sur_laquelle_elle_même_repose]({% link images/woman-gad36eae21_1920.jpg %})
-
-
+!![dessin d'une femme qui arrose aves amour une plante qui la porte]({% link images/image_consultations.jpg %})
 
 
 Les consultations en Alimentation, Iridologie, Florithérapie et Massage Relaxant sont au tarif de:
