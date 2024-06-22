@@ -6,22 +6,21 @@ in_menu: true
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 <h2>Recette's Galerie😋</h2>
 
+<p>Allez à <a href="#Assiette1">Sarrasin, courgettes, carottes, salade, betterave</a>.</p>
+<p>Allez à <a href="#Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</a>.</p>
+<p>Allez à <a href="#Assiette3">Tofu aux olives, salade, tomate, algues</a>.</p>
+<p>Allez à <a href="#Assiette4">Amandes, salade, haricots verts, tomate, algues</a>.</p>
 
-<p>Allez à <a href="#Assiette1">haut</a>.</p>
-<p>Allez à <a href="#Assiette2">haut</a>.</p>
-<p>Allez à <a href="#Assiette3">haut</a>.</p>
-<p>Allez à <a href="#Assiette4">haut</a>.</p>
-
-<h2 id="Assiette1">Section Assiette1</h2>
+<h3 id="Assiette1">Sarrasin, courgettes, carottes, salade, betterave</h3>
 ![Assiette1]({% link images/Assiette1.jpg %})
  
-<h2 id="Assiette2">Section Assiette2</h2>
+<h3 id="Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</h3>
 ![Assiette2]({% link images/Assiette2.jpg %})
 
-<h2 id="Assiette3">Section Assiette3</h2>
+<h3 id="Assiette3">Tofu aux olives, salade, tomate, algues</h3>
 ![Assiette3]({% link images/Assiette3.jpg %})
 
-<h2 id="Assiette4">Section Assiette4</h2>
+<h3 id="Assiette4">Tofu aux olives, salade, tomate, algues</h3>
 ![Assiette4]({% link images/Assiette4.jpg %})
 
 <style>
