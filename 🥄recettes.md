@@ -6,14 +6,14 @@ in_menu: true
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
 <h2>Recette's Galerie😋</h2>
 
-<p>Allez à <a href="#Assiette1">Sarrasin, courgettes, carottes, salade, betterave</a>.</p>
-<p>Allez à <a href="#Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</a>.</p>
-<p>Allez à <a href="#Assiette3">Tofu aux olives, salade, tomate, algues</a>.</p>
-<p>Allez à <a href="#Assiette4">Amandes, salade, haricots verts, tomate, algues</a>.</p>
-<p>Allez à <a href="#Assiette5">à renseigner</a>.</p>
-<p>Allez à <a href="#Assiette7">à renseigner</a>.</p>
-<p>Allez à <a href="#Assiette8">à renseigner</a>.</p>
-<p>Allez à <a href="#Assiette9">à renseigner</a>.</p>
+<p><a href="#Assiette1">Sarrasin, courgettes, carottes, salade, betterave</a>.</p>
+<p><a href="#Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</a>.</p>
+<p><a href="#Assiette3">Tofu aux olives, salade, tomate, algues</a>.</p>
+<p><a href="#Assiette4">Amandes, salade, haricots verts, tomate, algues</a>.</p>
+<p><a href="#Assiette5">à renseigner</a>.</p>
+<p><a href="#Assiette7">à renseigner</a>.</p>
+<p><a href="#Assiette8">à renseigner</a>.</p>
+<p><a href="#Assiette9">à renseigner</a>.</p>
 
 
 <h3 style="color:#4bc7cc;"id="Assiette1">Sarrasin, courgettes, carottes, salade, betterave</h3>
