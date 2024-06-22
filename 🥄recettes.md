@@ -9,12 +9,10 @@ in_menu: true
 </style>
   </head>
   <body>
+<img id="Assiette1" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true>
 <p>Allez à <a href="#Assiette1">Assiette1</a>.</p>
   </body>
 </html>
-
-<img id="anchor-Assiette1" src="https://github.com/Boptimiste/autonomiesante/blob/main/images/Assiette1.jpg?raw=true>
-
 
 <style>
 .footer {
