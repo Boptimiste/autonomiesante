@@ -13,7 +13,7 @@ in_menu: true
 L'art et la manière dont il est ici question est la **NATUROPATHIE**.
 Ce nom, d'origine américaine, signifie: le chemin vers la Nature ("_nature_"+ "_path_")
 
-![unchemin dans les bois au lever du soleil]({% link images/chemin_nature2.jpg %})
+![chemin dans les bois au lever du soleil]({% link images/chemin_nature2.jpg %})
 
 
 --> [Petite histoire de la Naturopathie](https://boptimiste.github.io/autonomiesante/articles/) 
