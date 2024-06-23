@@ -4,7 +4,7 @@ order: 10
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
-<h2 id="Recette's Galerie😋">Recette's Gallerie</h2>
+<h2 id="Recette's Galerie😋">Recette's Gallerie😋</h2>
 
 <p><a href="#Assiette1">Sarrasin, courgettes, carottes, salade, betterave</a>.</p>
 <p><a href="#Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</a>.</p>
@@ -19,7 +19,7 @@ in_menu: true
 <h3 style="color:#4bc7cc;"id="Assiette1">Sarrasin, courgettes, carottes, salade, betterave</h3>
 ![Assiette1]({% link images/Assiette1.jpg %})
 <h3 id="Recette's Gallerie"</h3>
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
  
 <h3 style="color:#4bc7cc;"id="Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</h3>
 ![Assiette2]({% link images/Assiette2.jpg %})
