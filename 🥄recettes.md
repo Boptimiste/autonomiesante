@@ -18,17 +18,14 @@ in_menu: true
 
 <h3 style="color:#4bc7cc;"id="Assiette1">Sarrasin, courgettes, carottes, salade, betterave</h3>
 ![Assiette1]({% link images/Assiette1.jpg %})
-<h3 id="Recette's Gallerie"</h3>
 <p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
  
 <h3 style="color:#4bc7cc;"id="Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</h3>
 ![Assiette2]({% link images/Assiette2.jpg %})
-<h3 id="Recette's Gallerie"</h3>
 <p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette3">Tofu aux olives, salade, tomate, algues</h3>
 ![Assiette3]({% link images/Assiette3.jpg %})
-<h3 id="Recette's Gallerie"</h3>
 <p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette4">Amandes, salade, haricots verts, tomate, algues</h3>
