@@ -18,6 +18,7 @@ in_menu: true
 
 <h3 style="color:#4bc7cc;"id="Assiette1">Sarrasin, courgettes, carottes, salade, betterave</h3>
 ![Assiette1]({% link images/Assiette1.jpg %})
+<h2 id="Recette's Gallerie"</h2>
 <p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
  
 <h3 style="color:#4bc7cc;"id="Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</h3>
