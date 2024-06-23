@@ -4,7 +4,7 @@ order: 10
 in_menu: true
 ---
 ![logo_Autonomie_Santé]({% link images/arbre_diaporama.jpg %})
-<h2>Recette's Galerie😋</h2>
+<h2 id="Recette's Galerie😋">Recette's Gallerie</h2>
 
 <p><a href="#Assiette1">Sarrasin, courgettes, carottes, salade, betterave</a>.</p>
 <p><a href="#Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</a>.</p>
