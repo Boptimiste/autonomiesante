@@ -22,35 +22,35 @@ in_menu: true
  
 <h3 style="color:#4bc7cc;"id="Assiette2">Pâtes petit épeautre, carottes, courgettes, chou pomme, olives</h3>
 ![Assiette2]({% link images/Assiette2.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette3">Tofu aux olives, salade, tomate, algues</h3>
 ![Assiette3]({% link images/Assiette3.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
-<h3 style="color:#4bc7cc;"id="Assiette4">Amandes, salade, haricots verts, tomate, algues</h3>
+<h3 style="color:#4bc7cc;"id="Assiette4😋">Amandes, salade, haricots verts, tomate, algues</h3>
 ![Assiette4]({% link images/Assiette4.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette5">à renseigner</h3>
 ![Assiette5]({% link images/Assiette5.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette6">à renseigner</h3>
 ![Assiette6]({% link images/Assiette6.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette7">à renseigner</h3>
 ![Assiette7]({% link images/Assiette7.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette8">à renseigner</h3>
 ![Assiette8]({% link images/Assiette8.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <h3 style="color:#4bc7cc;"id="Assiette9">à renseigner</h3>
 ![Assiette9]({% link images/Assiette9.jpg %})
-<p>Allez à <a href="#Recette's Galerie">Retour liste recettes</a>.</p>
+<p>Allez à <a href="#Recette's Galerie😋">Retour liste recettes</a>.</p>
 
 <style>
 .footer {
